@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Web personal de Jorge L. Cangas
+title : Sitio personal de Jorge L. Cangas
 tagline: Site Tagline
 author :
   name : Jorge L. Cangas
@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : jcangasgithubsite
     livefyre :
       site_id : 123
     intensedebate :
